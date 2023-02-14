@@ -1,3 +1,3 @@
 # Random-Decision-Maker
 
-# This website is created by ChatGPT 
+This website is created by ChatGPT 
